@@ -1,7 +1,7 @@
 # MAHALogin
 1st committ
 2nd commit
-3 rd commit
+3 rd committ
 
 
 # DevOps_7PM_Batch
