@@ -28,3 +28,4 @@ pipeline
 2 nd commit user pipeline
 commit
 commit 3
+pipeline commit
