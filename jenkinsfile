@@ -3,7 +3,7 @@ node {
     git branch: 'main', url: 'https://github.com/laxmikant7007/jenkin.git'
 }
 
-   stage('build maven target') {
+   stage('build Yamaha maven target') {
     sh 'mvn install'
 }
 }
